@@ -4,6 +4,6 @@ a
 b
 a
 a
-a
-aa
+abb
+dddaa
 aaa
